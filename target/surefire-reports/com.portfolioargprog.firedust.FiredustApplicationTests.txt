@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.portfolioargprog.firedust.FiredustApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.433 s - in com.portfolioargprog.firedust.FiredustApplicationTests
